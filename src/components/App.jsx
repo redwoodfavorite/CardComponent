@@ -10,7 +10,7 @@ export default class App extends React.Component {
 		return (
 			<div id="app-container">
 				<BaseCardComponent
-				title="MESSAGES"
+				title="@Jordan, @Mike, @Larry"
 				width={innerWidth}
 				height={innerHeight} />
 			</div>

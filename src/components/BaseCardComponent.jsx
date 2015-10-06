@@ -20,8 +20,9 @@ export default class BaseCardComponent extends React.Component {
 		for (i = 0, l = data.length; i < l; i++) {
 			childViews.push(
 				<MessageComponent
-					content={data[i].content}
-					user={data[i].user} />
+				content={data[i].content}
+				user={data[i].user}
+				date={data[i].date} />
 			);
 		}
 
@@ -38,8 +39,14 @@ export default class BaseCardComponent extends React.Component {
 				<div className="card-body">
 					{childViews}
 				</div>
-				<div className="card-footer"></div>
+				<div className="card-footer">
+					<a className="reply"> REPLY </a>
+				</div>
 			</div>
 		);
+	}
+
+	onClick() {
+		console.log('clik')
 	}
 }

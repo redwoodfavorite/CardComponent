@@ -2,81 +2,97 @@
 	{
 		"user": "Joseph",
 		"content": "Hello there!",
-		"id": 0
+		"id": 0,
+		"date": "4:23pm"
 	},
 	{
 		"user": "MikeX",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 1
+		"id": 1,
+		"date": "4:23pm"
 	},
 	{
 		"user": "MikeX",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 2
+		"id": 2,
+		"date": "4:23pm"
 	},
 	{
 		"user": "Joseph",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 3
-	},
-	{
-		"user": "Joseph",
-		"content": "Hello there!",
-		"id": 0
-	},
-	{
-		"user": "MikeX",
-		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 1
-	},
-	{
-		"user": "MikeX",
-		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 2
-	},
-	{
-		"user": "Joseph",
-		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 3
+		"id": 3,
+		"date": "4:23pm"
 	},
 	{
 		"user": "Joseph",
 		"content": "Hello there!",
-		"id": 0
+		"id": 0,
+		"date": "4:23pm"
 	},
 	{
 		"user": "MikeX",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 1
+		"id": 1,
+		"date": "4:23pm"
 	},
 	{
 		"user": "MikeX",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 2
+		"id": 2,
+		"date": "4:23pm"
 	},
 	{
 		"user": "Joseph",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 3
+		"id": 3,
+		"date": "4:23pm"
 	},
 	{
 		"user": "Joseph",
 		"content": "Hello there!",
-		"id": 0
+		"id": 0,
+		"date": "4:23pm"
 	},
 	{
 		"user": "MikeX",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 1
+		"id": 1,
+		"date": "4:23pm"
 	},
 	{
 		"user": "MikeX",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 2
+		"id": 2,
+		"date": "4:23pm"
 	},
 	{
 		"user": "Joseph",
 		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
-		"id": 3
+		"id": 3,
+		"date": "4:23pm"
+	},
+	{
+		"user": "Joseph",
+		"content": "Hello there!",
+		"id": 0,
+		"date": "4:23pm"
+	},
+	{
+		"user": "MikeX",
+		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
+		"id": 1,
+		"date": "4:23pm"
+	},
+	{
+		"user": "MikeX",
+		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
+		"id": 2,
+		"date": "4:23pm"
+	},
+	{
+		"user": "Joseph",
+		"content": "Give me three minutes with him and I swear...  You want a story? Write this down.",
+		"id": 3,
+		"date": "4:23pm"
 	}
 ]

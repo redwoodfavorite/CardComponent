@@ -6,6 +6,7 @@ export default class BaseCardComponent extends React.Component {
 		super(props);
 
 		this.state = {
+			date: this.props.date,
 			user: this.props.user,
 			content: this.props.content
 		};
@@ -13,8 +14,12 @@ export default class BaseCardComponent extends React.Component {
 
 	render() {
 		return (
-			 <div className="child-view">
-			 	{this.state.content}
+			 <div className="message-container">
+			 	<div className="message-headers">
+				 	<span className="message-user">@{this.state.user.toUpperCase()}</span>
+				 	<span className="message-date">{this.state.date}</span>
+			 	</div>
+			 	<span className="message-content">{this.state.content}</span>
 			 </div>
 		);
 	}
