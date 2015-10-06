@@ -1,0 +1,52 @@
+html, body {
+	font-family: Helvetica;
+	font-weight: lighter;
+	font-size: 30px;
+	line-height: 60px;
+}
+
+#app-container {
+	width: 100%;
+	height: 100%;
+}
+
+div.card {
+	position: relative;
+	margin: auto;
+	overflow: hidden;
+	border-radius: 20px;
+}
+
+div.card h1 {
+	font-size: 60px;
+	color: white;
+}
+
+.card-header {
+	height: 10%;
+	box-sizing: border-box;
+	padding: 50px 60px;
+	background-color: #14B5AF;
+}
+
+.card-body {
+	box-sizing: border-box;
+	height: 80%;
+	background-color: #FFFFFF;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+}
+
+div.child-view {
+	border: 1px solid gray;
+	box-sizing: border-box;
+	padding: 30px;
+}
+
+.card-footer {
+	position: absolute;
+	bottom: 0px;
+	height: 10%;
+	width: 100%;
+	background-color: #14B5AF;
+}
